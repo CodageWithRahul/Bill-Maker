@@ -3,6 +3,8 @@
 
 Bill Maker is a lightweight desktop billing application designed specifically for small and local Internet Service Providers (ISPs) to simplify customer invoicing and billing management.
 
+This application is built using Java with Swing framework for the user interface, providing a lightweight desktop-based billing solution.
+
 Unlike generic billing software, Bill Maker is optimized for ISP workflows, supporting both broadband and cable service billing in a simple and efficient interface.
 
 The application is released as a free utility software to help local service providers manage billing operations without subscription costs or licensing restrictions.
