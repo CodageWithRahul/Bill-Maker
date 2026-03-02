@@ -113,11 +113,13 @@ Practical invoice automation
 
 📸 Dashboard Preview
 <p align="center"> <img width="505" height="709" alt="Screenshot 2026-03-02 131703" src="https://github.com/user-attachments/assets/c00aa83b-1c5b-4b00-9f98-104035783534" />
-  Output PDF
-
-<img width="482" height="688" alt="Screenshot 2026-03-02 133038" src="https://github.com/user-attachments/assets/2c28a425-6ea3-4324-8369-8b9a2f88dba4" />
-
 </p>
+  
+  Output PDF
+<p align="center"> <img width="482" height="688" alt="Screenshot 2026-03-02 133038" src="https://github.com/user-attachments/assets/2c28a425-6ea3-4324-8369-8b9a2f88dba4" />
+</p>
+
+
 
 🎉 Release Information
 
